@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Farhattttt
-- 👀 I’m interested in C/C++ and Web Development
+- Hi 👋, I’m Farhat!
+- 
 - 🌱 I’m currently learning DS alogorithms, REACT and Next JS
 - 📫 How to reach me ...
 - 😄 Pronouns: ...she/her
