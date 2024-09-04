@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI" alt="Banner Image" />
+</p>
 <h1 align="center">Hi 👋, I'm Farhat Tasnim</h1>
 <h3 align="center">A passionate Web Developer from India😊</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
