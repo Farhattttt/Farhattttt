@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **A Full Stack Doctor Appointment Application**
 
-- 🌱 I’m currently learning **React JS and Next JS**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **WEB,Data Structures and MERN Stack**
 
