@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tasnimf438@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1ngs1nvKGEHvzUAP6xJBxwG_YcsF12NcE?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1aJq3Ul_Scff-EnRVkH8CeI_wXv-o2pcu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
