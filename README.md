@@ -5,15 +5,15 @@
 <h3 align="center">A passionate Web Developer from India😊</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-- 🔭 I’m currently working on **A Full Stack Doctor Appointment Application**
+- 🔭 I’m currently working on **A Full Stack Event Management Application**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **WEB,Data Structures and MERN Stack**
 
 - 📫 How to reach me **tasnimf438@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1aJq3Ul_Scff-EnRVkH8CeI_wXv-o2pcu/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1-NMuRNnmQApdTmO91z2G5cbXJ0mAYqGX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
